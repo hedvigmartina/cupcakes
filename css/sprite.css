@@ -1,0 +1,67 @@
+.sprite-sprite, .sprite-btn_next, .sprite-btn_previus, .sprite-icon_arrowRight, .sprite-icon_checked, .sprite-icon_facebook, .sprite-icon_faq, .sprite-icon_heart, .sprite-icon_home, .sprite-icon_linkedin, .sprite-icon_login, .sprite-icon_oQueE, .sprite-icon_planos, .sprite-icon_plus, .sprite-icon_twitter, .sprite-spr_bullet, .sprite-spr_check {
+  background: url('/img/sprite-s75227e7215.png') no-repeat;
+}
+
+.sprite-btn_next {
+  background-position: 0 -110px;
+}
+
+.sprite-btn_previus {
+  background-position: 0 -206px;
+}
+
+.sprite-icon_arrowRight {
+  background-position: 0 -626px;
+}
+
+.sprite-icon_checked {
+  background-position: 0 -775px;
+}
+
+.sprite-icon_facebook {
+  background-position: 0 -546px;
+}
+
+.sprite-icon_faq {
+  background-position: 0 -910px;
+}
+
+.sprite-icon_heart {
+  background-position: 0 0;
+}
+
+.sprite-icon_home {
+  background-position: 0 -1114px;
+}
+
+.sprite-icon_linkedin {
+  background-position: 0 -382px;
+}
+
+.sprite-icon_login {
+  background-position: 0 -1046px;
+}
+
+.sprite-icon_oQueE {
+  background-position: 0 -842px;
+}
+
+.sprite-icon_planos {
+  background-position: 0 -1182px;
+}
+
+.sprite-icon_plus {
+  background-position: 0 -978px;
+}
+
+.sprite-icon_twitter {
+  background-position: 0 -302px;
+}
+
+.sprite-spr_bullet {
+  background-position: 0 -705px;
+}
+
+.sprite-spr_check {
+  background-position: 0 -462px;
+}
